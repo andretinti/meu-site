@@ -1,1 +1,39 @@
-# meu-site
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta chartset="UTF-8">
+    <title>Contabilidade Tinti</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+  <header>
+    <h1>Contabilidade Tinti</h1>
+    <nav>
+      <a href="Contabilidade">Contabilidade</a>
+      <a href="Comtrafo">Contrafo</a>
+      <a href="43996862789">4399862789</a>
+    </nav>
+    </header> 
+
+  <section class="banner">
+    <h2>Soluções contábeis para o seu próprio negócio</h2>
+  <p>Organize suas finanças com profissionais qualificados</p>
+
+<button anclik="scrollTocontato()">Fale conosco</button>
+  </section>
+
+    <section id="sobre">
+      <h2>sobre nós</h2>
+      <p> Somos especialistas em contabilidade empresarial, oferecendo soluções completas para empresas de todos os portes.</p>
+      </section>
+
+  <section id="serviços">
+
+  <h2>serviços</h2>
+  <div class="cards">
+     <driv class="card">
+      <h3>Abertura de Empresas</h3>
+      <p>Abra seu CNPJ sem complicações.</p>
+      </div>
+      
